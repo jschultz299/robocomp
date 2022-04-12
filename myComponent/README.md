@@ -50,3 +50,8 @@ Then, run the component:
 ```
 bin/MyFirstComp config
 ```
+
+## Result
+Below you can view the result of the new component. The robot successfully avoids obstacles. 
+
+<img src="https://github.com/anfederico/clairvoyant/blob/master/media/Learning.gif" width=40%>

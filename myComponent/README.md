@@ -25,13 +25,13 @@ Ice.MessageSizeMax=20004800
 
 ## Starting the component
 
-1) In a new terminal, start the rcnode:
+### 1) In a new terminal, start the rcnode:
 
 ```
 rcnode
 ```
 
-2) In a new terminal, navigate to the directory containing the simpleworld environment:
+### 2) In a new terminal, navigate to the directory containing the simpleworld environment:
 ```
 cd robocomp/files/innermodel
 ```
@@ -40,7 +40,7 @@ Then, load the simpleworld environment:
 rcis simpleworld.xml
 ```
 
-3) In a new terminal, navigate to the component's home directory:
+### 3) In a new terminal, navigate to the component's home directory:
 ```
 cd robocomp/myComponent
 ```

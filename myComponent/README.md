@@ -54,4 +54,4 @@ bin/MyFirstComp config
 ## Result
 Below you can view the result of the new component. The robot successfully avoids obstacles. 
 
-<img src="https://github.com/jschultz299/robocomp/blob/development/myComponent/SimpleWorld%20Demo.gif" width=50%>
+<img src="https://github.com/jschultz299/robocomp/blob/development/myComponent/SimpleWorld%20Demo.gif" width=75%>
